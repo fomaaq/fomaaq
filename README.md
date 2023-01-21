@@ -1,4 +1,23 @@
-### Hi there 👋
+## Hello 👋
+
+I'm Viktor, python developer
+
+
+### 🎢 Skills 
+
+- Python 3.x
+- Flask
+- Django
+- SQL
+
+### ☎️ Contacts
+
+📧 e-mail: veek47@gmail.com
+📱 tg: https://t.me/foma111
+
+### 💻 My projects
+
+🤖 Synoptic Location Telegram Bot: https://t.me/synoptic_tg_bot
 
 <!--
 **fomaaq/fomaaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
