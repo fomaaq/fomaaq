@@ -18,4 +18,4 @@ Python Developer
 ### ☎️ Contacts
 
 - e-mail: veek47@gmail.com
-- telegram: [@foma111](https://t.me/foma111)
+- telegram: <a href="https://t.me/foma111" target="_blank">@foma111</a>
